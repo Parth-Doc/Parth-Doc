@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Parth-Doc from India from Mars or that's where i would like to be.Parth is my name but my friends call me Doc.
+- 👋 Hi, I’m @Parth-Doc from Mars or that's where i would like to be.Parth is my name but my friends call me Doc.
 - 👀 I’m interested in Coding.
 - 🌱 I’m currently learning Python.
 - 💞️ I’m not looking for projects right now so i am a newbie and don't know much.
