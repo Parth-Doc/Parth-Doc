@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Parth-Doc from Hogwarts.Parth is my name but my friends call me Doc.
 - 👀 I’m interested in Coding.
 - 🌱 I’m currently learning Python.
-- 💞️ Sure I am lloking for projects and would like contibute anywhere I can.
+- 💞️ Sure I am looking for projects and would like contibute anywhere I can.
 - 📫 How to reach me:
 - my personal email:parthgupta150903@gmail.com
 - my mobile no:91-9773813939
